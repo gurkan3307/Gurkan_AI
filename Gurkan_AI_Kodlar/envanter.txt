@@ -1,0 +1,51 @@
+arsivle | arsivle.py | 2KB | 21.10 20:31 | OK |  | 
+arsivle_eski | arsivle_eski.py | 0KB | 22.10 09:13 | OK | Eski kurallarla uretilen otomatik notlari arsive tasir. Silmez. | 
+bilgi_aktar | bilgi_aktar.py | 3KB | 21.10 22:55 | OK | GURKAN AI genel bilgi aktarici: klasor veya ZIP'ten .md notlari vault' | kaynaklari_oku, kaynak_var, mevcut_hashler, aktar, main
+dongu | dongu.py | 2KB | 22.10 07:44 | OK | GURKAN AI dongu: URL topla -> indir -> not uret -> vault'a al, tekrarl | calistir, ozet, main
+duzelt | duzelt.py | 3KB | 20.10 23:17 | OK |  | 
+graf_renk | graf_renk.py | 0KB | 21.10 23:27 | OK |  | 
+gurkan_ai_baglantilari | gurkan_ai_baglantilari_uygula.py | 5KB | 21.10 10:17 | OK |  | main
+gurkan_ai_baglantilari | gurkan_ai_baglantilari_v2.py | 6KB | 21.10 10:26 | OK |  | norm_rel, safe_path, main
+gurkan_ai_bilgi_yoneticisi | gurkan_ai_bilgi_yoneticisi_v1_2.py | 7KB | 21.10 11:33 | OK | GURKAN AI Bilgi Bankasi Yoneticisi v1.2 - salt okunur Markdown kalite  | split_frontmatter, content_text, find_empty_sections, inspect, main
+gurkan_ai_business_studio | gurkan_ai_business_studio.py | 4KB | 21.10 19:57 | OK | GURKAN_AI - Business Studio v1.0 (FAZ 2: E-Ticaret ve Pazarlama Otomas | get_client
+gurkan_ai_content_studio | gurkan_ai_content_studio.py | 6KB | 21.10 19:57 | OK | GURKAN_AI - Creative Studio v1.3 (FAZ 3: Stabil Çökme Korumalı Medya Ü | get_client, generate_srt, create_voiceover_sync, create_voiceover
+gurkan_ai_dev_paket_fabrikasi | gurkan_ai_dev_paket_fabrikasi.py | 4KB | 21.10 19:56 | OK | GURKAN_AI - BÜYÜK BİLGİ PAKETİ FABRİKASI v2.1 (Hedef: 25.000+ Not) | get_client, clean_thinking, web_search, create_knowledge_package
+gurkan_ai_etiketleyici | gurkan_ai_etiketleyici.py | 2KB | 20.10 08:36 | OK | GURKAN AI - Tüm Notlara Otomatik Etiket Basıcı | has_frontmatter, etiketleri_bas
+gurkan_ai_hub | gurkan_ai_hub_v5_1.py | 4KB | 21.10 10:18 | OK | GURKAN_AI Hub v5.1 - Tam Otomasyonlu Şirket Raporlama Modülü (Excel B2 | get_client, count_knowledge_base
+gurkan_ai_kanit_ajani | gurkan_ai_kanit_ajani.py | 3KB | 21.10 10:09 | OK | GURKAN_AI - Kanıt Ajanı v1.0 (FAZ 1: Nesnel ve Kusursuz Temel) | web_search, process_sourceless_notes
+gurkan_ai_mega_otonom | gurkan_ai_mega_otonom.py | 4KB | 20.10 10:29 | OK | GURKAN AI - Mega Otonom Bilgi Fabrikası (250'lik Bloklar) | get_subtopics_from_llm, web_search, generate_note_content, save_to_obsidian, run_mega_factory
+gurkan_ai_otonom_500 | gurkan_ai_otonom_500.py | 3KB | 20.10 08:15 | OK | GURKAN AI - Otonom Bilgi Fabrikası (250 -> 500+ Hedefi) | web_search, generate_note_content, save_to_obsidian, run_autonomous_factory
+gurkan_ai_paket_fabrikasi | gurkan_ai_paket_fabrikasi.py | 6KB | 20.10 20:17 | OK | GURKAN AI 5.0+ — Büyük Bilgi Paketleri Fabrikası (25.000+ Hedefi İçin  | get_subtopics, search_with_sources, generate_sourced_note, process_topic, main
+gurkan_ai_turbo_otonom | gurkan_ai_turbo_otonom.py | 3KB | 20.10 10:37 | OK | GURKAN AI - Turbo Otonom Bilgi Fabrikası (10x Hızlandırma) | get_subtopics, fast_search, create_note_fast, save_note, process_single
+gurkan_ai_v3_0_arayuz | gurkan_ai_v3_0_arayuz.py | 26KB | 19.10 13:57 | OK | GURKAN AI v3.0 — PySide6 masaustu arayuzu (ilk entegrasyon surumu). | get_backend, main
+gurkan_ai_vision | gurkan_ai_vision.py | 1KB | 20.10 22:56 | OK | GURKAN_AI v2.8 - Gören Ajan (Vision/OCR) | extract_text_from_screen, analyze_screen_with_ai
+harita | harita.py | 0KB | 21.10 20:33 | OK |  | 
+jarvis | jarvis_v2_8.py | 30KB | 19.10 13:19 | OK | JARVIS v2.8 — Görsel Zekalı (Vision & OCR), Masaüstü Otomasyonlu ve Ço | strip_chinese, detect_language, clean_for_speech, play_mp3, speak
+jarvis_obsidian_denetim | jarvis_obsidian_denetim.py | 7KB | 19.10 17:52 | OK | JARVIS — Obsidian bilgi bankasi icin SALT OKUNUR on denetim. | get_meta_and_body, normalize_status, analyze_note, run
+jarvis_v1_1_yedek | jarvis_v1_1_yedek.py | 4KB | 17.10 16:49 | OK | Jarvis v1.1 - Yerel LM Studio (Qwen3 8B) veya Google API ile terminald | make_client, stream_reply, main
+jarvis_v2_9_1_test | jarvis_v2_9_1_test.py | 35KB | 19.10 13:54 | OK | JARVIS v2.9.1 — Görsel Zekalı (Vision & OCR), Masaüstü Otomasyonlu ve  | strip_chinese, detect_language, clean_for_speech, seslendirme_testi, play_mp3
+jarvis_v2_9_2_ekran_duzeltme | jarvis_v2_9_2_ekran_duzeltme.py | 38KB | 19.10 14:02 | OK | JARVIS v2.9.2 — Görsel Zekalı (Vision & OCR), Masaüstü Otomasyonlu ve  | strip_chinese, detect_language, clean_for_speech, seslendirme_testi, play_mp3
+jarvis_v2_9_3_ocr_teshis | jarvis_v2_9_3_ocr_teshis.py | 41KB | 19.10 14:12 | OK | JARVIS v2.9.3 — Görsel Zekalı (Vision & OCR), Masaüstü Otomasyonlu ve  | strip_chinese, detect_language, clean_for_speech, seslendirme_testi, play_mp3
+jarvis_v2_9_4_ekran_anlama | jarvis_v2_9_4_ekran_anlama.py | 44KB | 19.10 14:21 | OK | JARVIS v2.9.4 — Görsel Zekalı (Vision & OCR), Masaüstü Otomasyonlu ve  | strip_chinese, detect_language, clean_for_speech, seslendirme_testi, play_mp3
+jarvis_v2_9_5_ses_kontrol | jarvis_v2_9_5_ses_kontrol.py | 47KB | 19.10 14:34 | OK | JARVIS v2.9.5 — Görsel Zekalı (Vision & OCR), Masaüstü Otomasyonlu ve  | text_speech_toggle, start_f8_hotkey, strip_chinese, detect_language, clean_for_speech
+jarvis_v2_9_6_kaynakli_rag | jarvis_v2_9_6_kaynakli_rag.py | 54KB | 19.10 17:38 | OK | JARVIS v2.9.6 — Görsel Zekalı (Vision & OCR), Masaüstü Otomasyonlu ve  | text_speech_toggle, start_f8_hotkey, strip_chinese, detect_language, clean_for_speech
+jarvis_v3_0_arayuz | jarvis_v3_0_arayuz.py | 26KB | 19.10 13:44 | OK | JARVIS v3.0 — PySide6 masaustu arayuzu (ilk entegrasyon surumu). | get_backend, main
+kaynak_cek | kaynak_cek.py | 3KB | 22.10 14:47 | OK | GURKAN AI kaynak cekici: urls.txt'deki sayfalari indirir, ana metni ci | izinli, cek, main
+kontrol.py | kontrol.py.py | 1KB | 21.10 20:25 | OK |  | 
+kurulum | kurulum.py | 13KB | 20.10 20:06 | OK | GURKAN AI 5.0+ Otomatik Dosya Oluşturucu | 
+kurulum_hub | kurulum_hub_v5_1.py | 0KB | 21.10 10:14 | OK |  | run_command, main
+musteri_katalog_app | musteri_katalog_app.py | 3KB | 20.10 08:57 | OK | MÜŞTERİ UYGULAMASI: E-Ticaret / Katalog Üreticisi | 
+not_uret | not_uret.py | 10KB | 22.10 13:32 | OK | GURKAN AI not uretici v2: ham_kaynaklar/ -> LM Studio -> 3 kontrol ->  | norm, parcala, sec, model_adi, sohbet
+say | say.py | 1KB | 22.10 13:16 | OK |  | say
+tarama | tarama.py | 0KB | 21.10 23:07 | OK |  | 
+tasi | tasi.py | 0KB | 21.10 22:54 | OK |  | 
+tts_fix | tts_fix.py | 7KB | 19.10 13:36 | OK | tts_fix.py - Jarvis için Türkçe telaffuz düzeltici. | _below_1000, number_to_turkish, _digits_words, _to_float_words, _load_user_dict
+url_topla | url_topla.py | 3KB | 21.10 23:32 | OK | GURKAN AI URL toplayici: siteler.txt -> urls.txt | get, sitemap_bul, oku, linklerden, main
+yama | yama.py | 0KB | 22.10 07:47 | OK |  | 
+yama3 | yama3.py | 2KB | 22.10 09:01 | OK |  | 
+yama4 | yama4.py | 0KB | 22.10 09:13 | OK |  | 
+yama5 | yama5.py | 2KB | 22.10 13:24 | OK |  | 
+yama6 | yama6.py | 3KB | 22.10 13:32 | OK |  | 
+yama8 | yama8.py | 1KB | 22.10 14:47 | OK |  | 
+
+TOPLAM: 49  BOZUK: 0

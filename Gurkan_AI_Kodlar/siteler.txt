@@ -1,0 +1,8 @@
+https://docs.streamlit.io /develop 15
+link https://docs.python.org/3/library/index.html /3/library 15
+link https://docs.python.org/3/tutorial/index.html /3/tutorial 10
+https://fastapi.tiangolo.com /tutorial 10
+https://docs.docker.com /manuals 15
+https://kubernetes.io /docs 15
+https://numpy.org /doc/stable 15
+https://pandas.pydata.org /docs 15

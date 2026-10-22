@@ -1,0 +1,150 @@
+arsivle
+   çağırır : -
+   çağrılır: -
+arsivle_eski
+   çağırır : -
+   çağrılır: -
+bilgi_aktar
+   çağırır : -
+   çağrılır: tarama
+dongu
+   çağırır : -
+   çağrılır: -
+duzelt
+   çağırır : -
+   çağrılır: -
+graf_renk
+   çağırır : -
+   çağrılır: -
+gurkan_ai_baglantilari_uygula
+   çağırır : -
+   çağrılır: -
+gurkan_ai_baglantilari_v2
+   çağırır : -
+   çağrılır: -
+gurkan_ai_bilgi_yoneticisi_v1_2
+   çağırır : -
+   çağrılır: -
+gurkan_ai_business_studio
+   çağırır : -
+   çağrılır: -
+gurkan_ai_content_studio
+   çağırır : -
+   çağrılır: -
+gurkan_ai_dev_paket_fabrikasi
+   çağırır : -
+   çağrılır: -
+gurkan_ai_etiketleyici
+   çağırır : -
+   çağrılır: -
+gurkan_ai_hub_v5_1
+   çağırır : -
+   çağrılır: -
+gurkan_ai_kanit_ajani
+   çağırır : -
+   çağrılır: -
+gurkan_ai_mega_otonom
+   çağırır : -
+   çağrılır: -
+gurkan_ai_otonom_500
+   çağırır : -
+   çağrılır: -
+gurkan_ai_paket_fabrikasi
+   çağırır : -
+   çağrılır: -
+gurkan_ai_turbo_otonom
+   çağırır : -
+   çağrılır: -
+gurkan_ai_v3_0_arayuz
+   çağırır : -
+   çağrılır: -
+gurkan_ai_vision
+   çağırır : -
+   çağrılır: -
+harita
+   çağırır : -
+   çağrılır: -
+jarvis_obsidian_denetim
+   çağırır : -
+   çağrılır: -
+jarvis_v1_1_yedek
+   çağırır : -
+   çağrılır: -
+jarvis_v2_8
+   çağırır : -
+   çağrılır: -
+jarvis_v2_9_1_test
+   çağırır : -
+   çağrılır: -
+jarvis_v2_9_2_ekran_duzeltme
+   çağırır : -
+   çağrılır: -
+jarvis_v2_9_3_ocr_teshis
+   çağırır : -
+   çağrılır: -
+jarvis_v2_9_4_ekran_anlama
+   çağırır : -
+   çağrılır: -
+jarvis_v2_9_5_ses_kontrol
+   çağırır : -
+   çağrılır: -
+jarvis_v2_9_6_kaynakli_rag
+   çağırır : -
+   çağrılır: -
+jarvis_v3_0_arayuz
+   çağırır : -
+   çağrılır: -
+kaynak_cek
+   çağırır : -
+   çağrılır: -
+kontrol
+   çağırır : -
+   çağrılır: -
+kontrol.py
+   çağırır : -
+   çağrılır: -
+kurulum
+   çağırır : -
+   çağrılır: -
+kurulum_hub_v5_1
+   çağırır : -
+   çağrılır: -
+musteri_katalog_app
+   çağırır : -
+   çağrılır: -
+not_uret
+   çağırır : -
+   çağrılır: -
+say
+   çağırır : -
+   çağrılır: -
+tarama
+   çağırır : bilgi_aktar
+   çağrılır: -
+tasi
+   çağırır : -
+   çağrılır: -
+tts_fix
+   çağırır : -
+   çağrılır: -
+url_topla
+   çağırır : -
+   çağrılır: -
+yama
+   çağırır : -
+   çağrılır: -
+yama3
+   çağırır : -
+   çağrılır: -
+yama4
+   çağırır : -
+   çağrılır: -
+yama5
+   çağırır : -
+   çağrılır: -
+yama6
+   çağırır : -
+   çağrılır: -
+yama8
+   çağırır : -
+   çağrılır: -

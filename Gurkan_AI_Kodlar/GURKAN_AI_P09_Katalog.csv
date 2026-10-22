@@ -1,0 +1,105 @@
+﻿id,klasor,baslik,olgu,kaynak_url,durum
+P09-001,Python yolları,PurePath,pathlib.PurePath dosya sistemi erişimi yapmadan yol parçalarını hesaplamak için kullanılır.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-002,Python yolları,Path,pathlib.Path çalışılan işletim sistemine uygun somut dosya yolu nesnesi üretir.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-003,Python yolları,PurePosixPath,PurePosixPath POSIX biçimindeki yolları işletim sisteminden bağımsız biçimde temsil eder.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-004,Python yolları,PureWindowsPath,PureWindowsPath Windows biçimindeki yolları işletim sisteminden bağımsız temsil eder.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-005,Python yolları,Birleştirme,pathlib yol nesnelerinde / işleci alt yol parçalarını birleştirmek için kullanılır.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-006,Python yolları,Path.name,Path.name yolun son bileşenini verir.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-007,Python yolları,Path.parent,Path.parent yolun üst dizinine karşılık gelen yolu döndürür.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-008,Python yolları,Path.suffix,Path.suffix son dosya uzantısını döndürür.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-009,Python yolları,Path.stem,Path.stem dosya adını son uzantısı olmadan verir.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-010,Python yolları,Path.parts,Path.parts yol bileşenlerini tuple olarak sunar.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-011,Python yolları,Path.exists,Path.exists bir dosya sistemi yolunun varlığını sınamak için kullanılır.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-012,Python yolları,Path.is_dir,Path.is_dir yolun bir dizine işaret edip etmediğini sorgular.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-013,Python yolları,Path.glob,Path.glob belirtilen desenle eşleşen yolları listeler.,https://docs.python.org/3/library/pathlib.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-014,Python JSON,dumps,json.dumps Python nesnesini JSON biçiminde bir karakter dizisine serileştirir.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-015,Python JSON,dump,json.dump JSON verisini dosya benzeri yazılabilir bir nesneye aktarır.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-016,Python JSON,loads,json.loads JSON biçimindeki bir karakter dizisini Python nesnesine dönüştürür.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-017,Python JSON,load,json.load dosya benzeri okunabilir nesneden JSON içeriğini çözümler.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-018,Python JSON,ensure_ascii,json.dumps işlevinde ensure_ascii=True olduğunda ASCII dışı karakterler kaçış dizileriyle yazılır.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-019,Python JSON,indent,json.dumps işlevinde indent parametresi JSON çıktısının girintilenmesini sağlar.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-020,Python JSON,sort_keys,json.dumps işlevinde sort_keys=True sözlük anahtarlarını sıralar.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-021,Python JSON,JSONDecodeError,Geçersiz JSON içeriği çözümlenirken JSONDecodeError hatası oluşabilir.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-022,Python JSON,allow_nan,json.dumps varsayılan allow_nan=True ayarıyla NaN ve Infinity gibi standart dışı sayısal değerleri yazabilir.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-023,Python JSON,separators,json.dumps separators parametresi öğe ve anahtar ayırıcılarını ayarlar.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-024,Python JSON,ensure_ascii_false,ensure_ascii=False kullanımı ASCII dışı karakterlerin çıktıda doğrudan gösterilmesini sağlar.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-025,Python JSON,default,json.dumps default parametresi desteklenmeyen nesnelerin nasıl serileştirileceğini tanımlamak için kullanılabilir.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-026,Python JSON,object_hook,json.loads object_hook parametresi çözümlenen JSON nesne sözlüklerini özelleştirmeye yarar.,https://docs.python.org/3/library/json.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-027,Python SQLite,connect,sqlite3.connect bir SQLite veritabanıyla bağlantı kurar.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-028,Python SQLite,cursor,Bağlantı nesnesinin cursor yöntemi SQL ifadeleri çalıştırmak için imleç üretir.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-029,Python SQLite,execute,sqlite3.Cursor.execute tek bir SQL ifadesini çalıştırır.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-030,Python SQLite,executemany,sqlite3.Cursor.executemany aynı parametreli SQL ifadesini birden çok parametre kümesiyle çalıştırır.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-031,Python SQLite,fetchone,sqlite3.Cursor.fetchone sonuç kümesinden sıradaki tek satırı alır.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-032,Python SQLite,fetchall,sqlite3.Cursor.fetchall sonuç kümesindeki kalan satırları liste olarak alır.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-033,Python SQLite,Row,sqlite3.Row satırlara sütun adı üzerinden erişim olanağı sağlar.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-034,Python SQLite,qmark,sqlite3 parametre bağlamada soru işareti (?) yer tutucularını destekler.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-035,Python SQLite,named,sqlite3 parametre bağlamada :name türündeki adlandırılmış yer tutucuları destekler.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-036,Python SQLite,commit,Bağlantının commit yöntemi bekleyen işlemi kalıcılaştırır.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-037,Python SQLite,rollback,Bağlantının rollback yöntemi bekleyen işlemdeki değişiklikleri geri alır.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-038,Python SQLite,close,Bağlantının close yöntemi SQLite bağlantısını kapatır.,https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-039,Python SQLite,in_memory,"sqlite3.connect("":memory:"") geçici bellek içi bir SQLite veritabanı açar.",https://docs.python.org/3/library/sqlite3.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-040,SQLite işlemler,BEGIN,SQLite BEGIN ifadesi açık bir işlemi başlatır.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-041,SQLite işlemler,COMMIT,SQLite COMMIT ifadesi işlemi tamamlamak için kullanılır.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-042,SQLite işlemler,ROLLBACK,SQLite ROLLBACK ifadesi işlemi geri almak için kullanılır.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-043,SQLite işlemler,DEFERRED,BEGIN DEFERRED SQLite için varsayılan açık işlem türüdür.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-044,SQLite işlemler,IMMEDIATE,BEGIN IMMEDIATE yazma işlemini hemen başlatmayı dener.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-045,SQLite işlemler,EXCLUSIVE,BEGIN EXCLUSIVE rollback journal modunda diğer bağlantıların okumasını da engelleyebilir.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-046,SQLite işlemler,Otomatik işlemler,Açık BEGIN yapılmadığında SQLite gerektikçe otomatik işlem başlatabilir.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-047,SQLite işlemler,Okuma işlemi,SQLite okuma işlemi veritabanının tutarlı bir anlık görüntüsünü görür.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-048,SQLite işlemler,Yazma sınırı,SQLite aynı anda yalnızca bir yazıcı işlemin etkin olmasına izin verir.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-049,SQLite işlemler,İç içe BEGIN,SQLite işlemleri BEGIN kullanılarak doğrudan iç içe başlatılamaz.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-050,SQLite işlemler,SAVEPOINT,SQLite iç içe işlem benzeri kontrol için SAVEPOINT komutunu sunar.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-051,SQLite işlemler,ROLLBACK TO,ROLLBACK TO ifadesi bir savepoint noktasına geri dönüş sağlar.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-052,SQLite işlemler,RELEASE,RELEASE ifadesi bir savepoint kaydını serbest bırakır.,https://www.sqlite.org/lang_transaction.html,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-053,Astronomi Mars,Güneşe sıra,Mars Güneş’e uzaklık bakımından dördüncü gezegendir.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-054,Astronomi Mars,Kızıl gezegen,Mars’ın kırmızı görünümü yüzeydeki demir minerallerinin oksitlenmesiyle ilişkilidir.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-055,Astronomi Mars,Atmosfer,Mars’ın atmosferi Dünya’nınkine göre çok incedir.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-056,Astronomi Mars,Gün uzunluğu,"Mars kendi ekseni etrafındaki bir dönüşünü yaklaşık 24,6 saatte tamamlar.",https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-057,Astronomi Mars,Yıl uzunluğu,Mars’ın bir Güneş yılı yaklaşık 687 Dünya günüdür.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-058,Astronomi Mars,Sol,Mars’ın güneş günü için “sol” terimi kullanılır.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-059,Astronomi Mars,Eksen eğimi,Mars’ın dönüş ekseninin yörünge düzlemine göre eğik olması mevsim oluşumuna katkıda bulunur.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-060,Astronomi Mars,Mevsimler,Mars’ta farklı mevsimler yaşanır.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-061,Astronomi Mars,Uydular,Mars’ın Phobos ve Deimos adlı iki doğal uydusu vardır.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-062,Astronomi Mars,Halka,Mars’ın günümüzde halka sistemi yoktur.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-063,Astronomi Mars,Kayaç,Mars karasal yani kayalık gezegenler grubundadır.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-064,Astronomi Mars,Suyun izleri,Mars’ta geçmişte sıvı suyun bulunduğunu gösteren kanıtlar elde edilmiştir.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-065,Astronomi Mars,Robotik araştırma,Mars yüzeyinde robotik gezgin araçlarla bilimsel araştırmalar yapılmıştır.,https://science.nasa.gov/mars/facts/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-066,Astronomi Güneş Sistemi,Gezegen sayısı,Güneş Sistemi’nde uluslararası kabul gören sekiz gezegen vardır.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-067,Astronomi Güneş Sistemi,Merkür,Merkür Güneş’e en yakın gezegendir.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-068,Astronomi Güneş Sistemi,Venüs,Venüs Güneş’e uzaklık bakımından ikinci gezegendir.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-069,Astronomi Güneş Sistemi,Dünya,Dünya Güneş’e uzaklık bakımından üçüncü gezegendir.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-070,Astronomi Güneş Sistemi,Mars,Mars Güneş’e uzaklık bakımından dördüncü gezegendir.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-071,Astronomi Güneş Sistemi,Jüpiter,Jüpiter Güneş’e uzaklık bakımından beşinci gezegendir.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-072,Astronomi Güneş Sistemi,Satürn,Satürn Güneş’e uzaklık bakımından altıncı gezegendir.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-073,Astronomi Güneş Sistemi,Uranüs,Uranüs Güneş’e uzaklık bakımından yedinci gezegendir.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-074,Astronomi Güneş Sistemi,Neptün,Neptün Güneş’e uzaklık bakımından sekizinci gezegendir.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-075,Astronomi Güneş Sistemi,Karasal gezegenler,"Merkür, Venüs, Dünya ve Mars karasal gezegenlerdir.",https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-076,Astronomi Güneş Sistemi,Gaz devleri,Jüpiter ve Satürn gaz devi sınıfındadır.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-077,Astronomi Güneş Sistemi,Buz devleri,Uranüs ve Neptün buz devi sınıfındadır.,https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-078,Astronomi Güneş Sistemi,Cüce gezegenler,"Ceres, Plüton, Haumea, Makemake ve Eris resmen tanınmış cüce gezegenlerdir.",https://science.nasa.gov/solar-system/planets/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-079,HTTP durum kodları,1xx,HTTP 1xx kodları bilgilendirme yanıtlarını temsil eder.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-080,HTTP durum kodları,2xx,HTTP 2xx kodları başarılı yanıtları temsil eder.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-081,HTTP durum kodları,3xx,HTTP 3xx kodları yönlendirme yanıtlarını temsil eder.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-082,HTTP durum kodları,4xx,HTTP 4xx kodları istemci hatalarını temsil eder.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-083,HTTP durum kodları,5xx,HTTP 5xx kodları sunucu hatalarını temsil eder.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-084,HTTP durum kodları,200,HTTP 200 OK isteğin başarıyla işlendiğini bildirir.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-085,HTTP durum kodları,201,HTTP 201 Created isteğin yeni bir kaynak oluşturduğunu bildirir.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-086,HTTP durum kodları,202,"HTTP 202 Accepted isteğin işlenmek üzere kabul edildiğini, ancak tamamlanmadığını ifade eder.",https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-087,HTTP durum kodları,204,HTTP 204 No Content başarılı isteğe karşılık gönderilecek içerik bulunmadığını belirtir.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-088,HTTP durum kodları,301,HTTP 301 Moved Permanently kalıcı yönlendirme durumunu belirtir.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-089,HTTP durum kodları,302,HTTP 302 Found geçici olarak farklı URI altında bulunan kaynağı belirtir.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-090,HTTP durum kodları,404,HTTP 404 Not Found sunucunun istenen kaynağı bulamadığını belirtir.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-091,HTTP durum kodları,500,HTTP 500 Internal Server Error sunucuda beklenmedik bir hatayı belirtir.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-092,AI risk yönetimi,Çerçeve,NIST AI Risk Management Framework yapay zekâ sistemlerinin risklerini yönetmek için oluşturulmuştur.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-093,AI risk yönetimi,Dört işlev,"NIST AI RMF Core dört temel işlevden oluşur: Govern, Map, Measure ve Manage.",https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-094,AI risk yönetimi,Govern,Govern işlevi yapay zekâ risk yönetimi yönetişimini ele alır.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-095,AI risk yönetimi,Map,Map işlevi yapay zekânın bağlamını ve risklerini anlamaya odaklanır.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-096,AI risk yönetimi,Measure,Measure işlevi yapay zekâ risklerini ölçme ve değerlendirmeyi ele alır.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-097,AI risk yönetimi,Manage,Manage işlevi belirlenen risklere öncelik vererek bunları yönetmeyi ele alır.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-098,AI risk yönetimi,Yaşam döngüsü,NIST AI RMF risk yönetiminin sistem yaşam döngüsü boyunca sürdürülmesini öngörür.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-099,AI risk yönetimi,Süreklilik,NIST AI RMF risk yönetiminin sürekli yapılmasını tavsiye eder.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-100,AI risk yönetimi,Bağlama duyarlılık,NIST AI RMF yaklaşımı bağlama uygun risk yönetimini amaçlar.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-101,AI risk yönetimi,Kategori,NIST AI RMF ana işlevleri kategorilere ve alt kategorilere ayrılır.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-102,AI risk yönetimi,Sonuçlar,NIST AI RMF Core belirli risk yönetimi çıktıları ve eylemleri tanımlar.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-103,AI risk yönetimi,Yönetişim sürekliliği,Govern işlevi diğer üç temel işlev boyunca etki eden yatay bir işlev olarak tanımlanır.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik
+P09-104,AI risk yönetimi,Kontrol listesi değil,NIST AI RMF Core eylemleri zorunlu sırayla izlenecek basit bir kontrol listesi olarak tasarlanmamıştır.,https://airc.nist.gov/airmf-resources/airmf/5-sec-core/,kaynak_sayfasi_incelendi_tekil_iddia_denetime_acik

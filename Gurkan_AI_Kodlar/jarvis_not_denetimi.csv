@@ -1,0 +1,179 @@
+﻿dosya;durum;kelime;kaynak;tarih;ozet
+00 — Proje Merkezi/00 Bilgi Bankası Kullanım Kılavuzu.md;Etiketsiz;206;0;;"Durum etiketi yok; URL kaynagi yok"
+00 — Proje Merkezi/01 JARVIS Yol Haritası.md;Etiketsiz;147;0;;"Durum etiketi yok; URL kaynagi yok"
+00 — Proje Merkezi/05 Bilgi Bankası Kalite Kontrolü.md;Etiketsiz;115;1;;Durum etiketi yok
+00 — Proje Merkezi/06 Sürüm Geçişi ve Geri Alma Planı.md;Etiketsiz;125;1;;Durum etiketi yok
+00 — Proje Merkezi/07 Haftalık Çalışma ve Karar Günlüğü.md;Etiketsiz;119;1;;Durum etiketi yok
+01 — Python ve Yazılım/01 Python Proje Ortamı.md;Etiketsiz;121;1;;Durum etiketi yok
+01 — Python ve Yazılım/02 Hata Ayıklama ve Test.md;Etiketsiz;139;2;;Durum etiketi yok
+01 — Python ve Yazılım/03 SQLite Kalıcı Hafıza.md;Etiketsiz;122;1;;Durum etiketi yok
+01 — Python ve Yazılım/13 Python Paketleme ve pyproject.toml.md;Etiketsiz;120;1;;Durum etiketi yok
+01 — Python ve Yazılım/14 HTTPX ile Bağlantı ve Timeout.md;Etiketsiz;113;1;;Durum etiketi yok
+01 — Python ve Yazılım/15 CLI Komut Ayrıştırma.md;Etiketsiz;108;1;;Durum etiketi yok
+01 — Python ve Yazılım/16 Python subprocess Güvenliği.md;Etiketsiz;109;1;;Durum etiketi yok
+01 — Python ve Yazılım/17 Yapılandırma ve Gizli Anahtarlar.md;Etiketsiz;115;1;;Durum etiketi yok
+01 — Python ve Yazılım/18 Windows Dosya Yolları ve Pathlib.md;Etiketsiz;114;1;;Durum etiketi yok
+01 — Python ve Yazılım/19 Python Performans Ölçümü.md;Etiketsiz;109;1;;Durum etiketi yok
+01 — Python ve Yazılım/20 SQLite WAL ve Eşzamanlılık.md;Etiketsiz;115;1;;Durum etiketi yok
+01 — Python ve Yazılım/21 Test Çiftleri ve API Mock.md;Etiketsiz;120;1;;Durum etiketi yok
+01 — Python ve Yazılım/22 Python x Moduyla Üzerine Yazmayı Önleme.md;Diğer etiket;172;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/23 SQLite Bağlantı Backup Yöntemi.md;Diğer etiket;158;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/24 ZIP Bilgi Paketi Güvenli Alma.md;Diğer etiket;161;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/30 Python pathlib ile Yol İşlemleri.md;Taslak;183;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/31 Python logging ile Kayıt Seviyeleri.md;Taslak;180;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/32 Python sqlite3 Parametreli Sorgular.md;Taslak;174;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/33 Python sqlite3 Güvenli Yedekleme.md;Taslak;171;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/34 Python subprocess ve shell Güvenliği.md;Taslak;169;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/35 Python threading Event ile İptal.md;Taslak;178;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/36 Python queue ile Güvenli Mesaj Kuyruğu.md;Taslak;172;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/37 Python tempfile ile Geçici Dosyalar.md;Taslak;177;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/38 Python unittest ile Regresyon Testi.md;Taslak;174;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/39 Python venv İzole Paket Ortamı.md;Taslak;176;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/40 Python argparse CLI Argümanları.md;Taslak;123;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/41 Python dataclasses Veri Nesneleri.md;Taslak;122;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/42 Python enum Durum Makinesi.md;Taslak;125;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/43 Python contextlib Kaynak Yönetimi.md;Taslak;122;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/44 Python functools lru_cache.md;Taslak;118;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/45 Python concurrent futures Executor.md;Taslak;121;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/46 Python json JSON Kodlama.md;Taslak;125;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/47 Python os.replace Atomik Değiştirme.md;Taslak;137;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/48 Python hashlib SHA256 Özetleri.md;Taslak;119;1;;On kontrol belirgin eksik bulmadi
+01 — Python ve Yazılım/49 Python zoneinfo Saat Dilimleri.md;Taslak;119;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/01 LM Studio Yerel API.md;Etiketsiz;122;3;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/02 Gemini API Hata Yönetimi.md;Etiketsiz;122;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/03 Embedding ve RAG Temelleri.md;Etiketsiz;133;0;;"Durum etiketi yok; URL kaynagi yok"
+02 — Yapay Zekâ ve Modeller/04 Prompt Tasarımı ve Araç Güvenliği.md;Etiketsiz;106;0;;"Durum etiketi yok; URL kaynagi yok"
+02 — Yapay Zekâ ve Modeller/13 RAG Sorgu Yeniden Yazma.md;Etiketsiz;109;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/14 RAG Hybrid Search BM25 ve Vektör.md;Etiketsiz;124;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/15 RAG Metadata Filtreleme.md;Etiketsiz;112;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/16 RAG Kaynak Gösterme ve Alıntı.md;Etiketsiz;118;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/17 Embedding Vektör Normalizasyonu.md;Etiketsiz;110;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/18 RAG Yeniden İndeksleme.md;Etiketsiz;108;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/19 LLM JSON Şema Çıktısı.md;Etiketsiz;110;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/20 Yerel Model Kısıt ve Ölçüm Defteri.md;Etiketsiz;120;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/21 Halüsinasyon ve Güven Ölçümü.md;Etiketsiz;116;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/22 Çok Adımlı AI Ajanlarında Durum.md;Etiketsiz;122;1;;Durum etiketi yok
+02 — Yapay Zekâ ve Modeller/23 OCR ve Yerel LLM Görev Ayrımı.md;Diğer etiket;166;2;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/24 RAG Kaynak Meta Veri Kuralı.md;Diğer etiket;162;2;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/25 Ekran Metninden Prompt Injection Savunması.md;Diğer etiket;174;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/26 Görüntüden İspatlanabilen ve Çıkarılan Bilgi.md;Diğer etiket;176;2;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/30 LM Studio OpenAI Uyumlu Yerel Sunucu.md;Taslak;170;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/31 LM Studio Model Listesi ve Kimliği.md;Taslak;171;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/32 LM Studio Embedding İstekleri.md;Taslak;164;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/33 LM Studio Yapılandırılmış JSON Yanıtlar.md;Taslak;179;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/34 LM Studio Yerel ve Ağ Erişimi Farkı.md;Taslak;169;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/35 RapidOCR Çıktısı ve Güven Puanları.md;Taslak;177;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/36 RapidOCR Tanıma ile Anlamlandırma Ayrımı.md;Taslak;167;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/37 RAG Belge Kaynağı ve Talimat Ayrımı.md;Taslak;173;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/38 Prompt Injection Görsel ve Metin Kaynakları.md;Taslak;178;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/39 RAG Arama ile Gerçeklik Kontrolü Farkı.md;Taslak;172;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/40 LM Studio Model Yanıtını Akışla Alma.md;Taslak;122;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/41 LM Studio Tool Use Araç Çağrıları.md;Taslak;125;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/42 LM Studio Structured Output JSON Schema.md;Taslak;127;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/43 LM Studio Yerel Sunucu Koruması.md;Taslak;124;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/44 LM Studio Model Listeleme.md;Taslak;121;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/45 RAG Kaynak Sıralama ile Kanıt Ayrımı.md;Taslak;130;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/46 Embedding ile Ham Metin Arama Farkı.md;Taslak;125;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/47 LM Studio Model İndirme ve Yükleme Durumu.md;Taslak;124;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/48 Yerel ve Bulut Modu Gizlilik Sınırı.md;Taslak;126;1;;On kontrol belirgin eksik bulmadi
+02 — Yapay Zekâ ve Modeller/49 AI Ajanında Araç Yanıtını Ayrı Mesaj Olarak Tutma.md;Taslak;132;1;;On kontrol belirgin eksik bulmadi
+03 — Elektrik-Elektronik/01 Arduino ve ESP32 Proje Temelleri.md;Etiketsiz;97;2;;"Durum etiketi yok; 100 kelimeden kisa"
+03 — Elektrik-Elektronik/02 PCB Tasarım Kontrol Listesi.md;Etiketsiz;110;1;;Durum etiketi yok
+03 — Elektrik-Elektronik/03 LTspice Simülasyon Disiplini.md;Etiketsiz;96;1;;"Durum etiketi yok; 100 kelimeden kisa"
+03 — Elektrik-Elektronik/09 ADC Çözünürlük ve Ölçüm Hataları.md;Etiketsiz;125;1;;Durum etiketi yok
+03 — Elektrik-Elektronik/10 I2C SPI UART Karşılaştırması.md;Etiketsiz;122;1;;Durum etiketi yok
+03 — Elektrik-Elektronik/11 PWM Frekans ve Çözünürlük.md;Etiketsiz;125;1;;Durum etiketi yok
+03 — Elektrik-Elektronik/12 PCB Topraklama ve Dönüş Akımı.md;Etiketsiz;117;1;;Durum etiketi yok
+03 — Elektrik-Elektronik/13 Buck Dönüştürücü Temelleri.md;Etiketsiz;125;1;;Durum etiketi yok
+03 — Elektrik-Elektronik/14 Operasyonel Amplifikatör Seçimi.md;Etiketsiz;116;1;;Durum etiketi yok
+03 — Elektrik-Elektronik/15 ESP32 Watchdog ve Arıza Kurtarma.md;Etiketsiz;118;1;;Durum etiketi yok
+03 — Elektrik-Elektronik/16 BOM ve Elektronik Maliyet Hesabı.md;Etiketsiz;116;1;;Durum etiketi yok
+04 — Otomasyon Sistemleri/01 Windows Otomasyonları için Güvenli Mimari.md;Etiketsiz;92;0;;"Durum etiketi yok; URL kaynagi yok; 100 kelimeden kisa"
+04 — Otomasyon Sistemleri/02 API Sağlayıcı Yönlendirme.md;Etiketsiz;96;0;;"Durum etiketi yok; URL kaynagi yok; 100 kelimeden kisa"
+04 — Otomasyon Sistemleri/07 Python ile Dosya İzleme.md;Etiketsiz;110;1;;Durum etiketi yok
+04 — Otomasyon Sistemleri/08 Otomasyonda İnsan Onayı.md;Etiketsiz;119;1;;Durum etiketi yok
+04 — Otomasyon Sistemleri/09 İş Kuyruğu ve Tekrar Deneme.md;Etiketsiz;119;1;;Durum etiketi yok
+04 — Otomasyon Sistemleri/10 Webhook ve Zamanlayıcı Farkı.md;Etiketsiz;110;1;;Durum etiketi yok
+04 — Otomasyon Sistemleri/11 PDF ve Belge İşleme Hattı.md;Etiketsiz;110;1;;Durum etiketi yok
+04 — Otomasyon Sistemleri/12 Excel Raporunda Veri Kalitesi.md;Etiketsiz;104;1;;Durum etiketi yok
+04 — Otomasyon Sistemleri/13 Otomasyon Dağıtım ve Güncelleme.md;Etiketsiz;106;1;;Durum etiketi yok
+04 — Otomasyon Sistemleri/14 Windows F8 Kısayol ve Ses Politikası.md;Diğer etiket;202;3;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/15 Konuşma Kanalları ve Sessiz Mod Tasarımı.md;Diğer etiket;187;2;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/16 RapidOCR Görüntü Tanıma Test Protokolü.md;Diğer etiket;203;2;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/17 Ekran Görüntüsü ve OCR Gizliliği.md;Diğer etiket;173;2;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/18 Edge TTS Geri Dönüş ve Hata Yönetimi.md;Diğer etiket;169;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/30 Windows RegisterHotKey Temel Davranış.md;Taslak;177;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/31 Windows WM_HOTKEY Mesajı.md;Taslak;167;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/32 Ekran Kaydı Gizlilik Sınırı.md;Taslak;172;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/33 OCR Komut Enjeksiyonuna Karşı İzolasyon.md;Taslak;172;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/34 Not Kaydında Üzerine Yazmama.md;Taslak;176;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/35 Zip Arşivinden Güvenli Not İçe Alma.md;Taslak;169;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/36 Kullanıcı İzni ve Araç Çağrısı Ayrımı.md;Taslak;179;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/37 Hata Kayıtlarında Bilgi Sızıntısı.md;Taslak;169;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/40 Windows Dosya Seçiminde Onay Sınırı.md;Taslak;128;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/41 Windows Bildirim ve Uygulama Odağı.md;Taslak;121;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/42 Windows DPI ve Ekran Ölçeklendirme.md;Taslak;136;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/43 Win32 GetForegroundWindow Ön Pencere.md;Taslak;127;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/44 Windows Hotkey Kaydı ve Çakışma.md;Taslak;124;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/45 Windows Başlatma Klasörü ve Otomatik Açılış.md;Taslak;121;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/46 Uygulama Günlüğünde Parola Maskeleme.md;Taslak;122;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/47 Araç İzin Listesi ve En Az Yetki.md;Taslak;122;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/48 İnternetten Gelen Metni Talimat Saymama.md;Taslak;131;1;;On kontrol belirgin eksik bulmadi
+04 — Otomasyon Sistemleri/49 Güvenli Dosya Adı Doğrulaması.md;Taslak;129;1;;On kontrol belirgin eksik bulmadi
+05 — Ürün ve Gelir Fikirleri/01 Küçük İşletme Otomasyonları.md;Etiketsiz;125;0;;"Durum etiketi yok; URL kaynagi yok"
+05 — Ürün ve Gelir Fikirleri/02 Freelance Portföy ve Teklif.md;Etiketsiz;89;0;;"Durum etiketi yok; URL kaynagi yok; 100 kelimeden kisa"
+05 — Ürün ve Gelir Fikirleri/07 Yerel İşletmeler için İhtiyaç Analizi.md;Etiketsiz;116;1;;Durum etiketi yok
+05 — Ürün ve Gelir Fikirleri/08 Teklifte Kapsam ve Revizyon.md;Etiketsiz;106;1;;Durum etiketi yok
+05 — Ürün ve Gelir Fikirleri/09 MVP Fiyatlama ve Maliyet.md;Etiketsiz;118;1;;Durum etiketi yok
+05 — Ürün ve Gelir Fikirleri/10 Freelance Portföy Vaka Çalışması.md;Etiketsiz;116;1;;Durum etiketi yok
+05 — Ürün ve Gelir Fikirleri/11 Müşteri Teslim Kontrol Listesi.md;Etiketsiz;106;1;;Durum etiketi yok
+05 — Ürün ve Gelir Fikirleri/12 Bakım ve Abonelik Modelleri.md;Etiketsiz;111;1;;Durum etiketi yok
+05 — Ürün ve Gelir Fikirleri/13 Düşük Bütçeyle İlk Müşteri Deneyi.md;Etiketsiz;121;1;;Durum etiketi yok
+06 — Kaynaklar/01 Resmi Dokümantasyon Dizini.md;Etiketsiz;129;12;;Durum etiketi yok
+06 — Kaynaklar/02 Araştırma ve Kaynak Doğrulama.md;Etiketsiz;80;0;;"Durum etiketi yok; URL kaynagi yok; 100 kelimeden kisa"
+06 — Kaynaklar/04 Resmi Kaynak Hiyerarşisi.md;Etiketsiz;107;1;;Durum etiketi yok
+06 — Kaynaklar/05 Kaynakların Lisansı ve Alıntılama.md;Etiketsiz;112;1;;Durum etiketi yok
+06 — Kaynaklar/06 Doğrulanmamış İddia ve Güncellik.md;Etiketsiz;111;1;;Durum etiketi yok
+06 — Kaynaklar/30 Obsidian YAML Özelliklerinin Yapısı.md;Taslak;164;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/31 Obsidian Çoklu Tags Kullanımı.md;Taslak;169;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/32 Obsidian İç Bağlantılar ve Başlıklar.md;Taslak;160;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/33 Obsidian Çağrı Kutuları.md;Taslak;160;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/34 SQLite WAL Eşzamanlı Okuma.md;Taslak;172;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/35 SQLite Yabancı Anahtar Denetimi.md;Taslak;167;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/36 SQLite Transaction ve Geri Alma.md;Taslak;173;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/37 Notlarda Kesinlik ve Test Durumu.md;Taslak;165;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/38 Obsidian Klasör Organizasyonu.md;Taslak;166;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/39 RAG Kaynak URL Denetim Kaydı.md;Taslak;175;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/40 Bilgi Notu Kaynak Türleri Ayrımı.md;Taslak;117;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/41 Markdown Bağlantı ve Kaynak Yazımı.md;Taslak;116;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/42 Obsidian Özellik Tipleri.md;Taslak;119;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/43 Obsidian Arama Operatörleri.md;Taslak;119;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/44 Obsidian Şablonlarla Not Tutarlılığı.md;Taslak;119;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/45 SQLite PRAGMA integrity_check.md;Taslak;109;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/46 SQLite FTS5 Tam Metin Arama.md;Taslak;125;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/47 SQLite EXPLAIN QUERY PLAN.md;Taslak;115;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/48 RAG Altın Soru Kümesi Oluşturma.md;Taslak;130;1;;On kontrol belirgin eksik bulmadi
+06 — Kaynaklar/49 RAG Kaynak Dosyası İzlenebilirliği.md;Taslak;123;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/01 PySide6 QMainWindow Uygulama İskeleti.md;Taslak;179;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/02 PySide6 QApplication Olay Döngüsü.md;Taslak;167;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/03 PySide6 QStackedWidget Sayfa Geçişleri.md;Taslak;175;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/04 PySide6 QSplitter ile Bölünebilir Alanlar.md;Taslak;169;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/05 PySide6 QTimer Zamanlı Yenileme.md;Taslak;168;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/06 PySide6 QPropertyAnimation ile Çekirdek.md;Taslak;170;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/07 PySide6 QThread ile Ağ İşlerini Ayırma.md;Taslak;180;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/08 PySide6 Signal Slot ile Durum Güncelleme.md;Taslak;174;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/09 PySide6 QThreadPool Toplu Görevler.md;Taslak;177;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/10 PySide6 QSettings Ayar Kalıcılığı.md;Taslak;172;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/11 PySide6 QSystemTrayIcon Bildirim Alanı.md;Taslak;165;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/12 PySide6 QTextEdit Zengin Sohbet Metni.md;Taslak;172;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/13 PySide6 QDockWidget Yerleşimi.md;Taslak;125;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/14 PySide6 QStatusBar Durum Mesajları.md;Taslak;128;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/15 PySide6 QProgressBar İşlem İlerlemesi.md;Taslak;124;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/16 PySide6 QGraphicsOpacityEffect Saydamlık.md;Taslak;126;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/17 PySide6 QPainter Özel Çizim.md;Taslak;122;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/18 PySide6 QPalette Renk Paletleri.md;Taslak;125;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/19 PySide6 QFileDialog Dosya Seçimi.md;Taslak;123;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/20 PySide6 QMessageBox Kullanıcı Onayı.md;Taslak;123;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/21 PySide6 QAbstractItemModel Model Görünüm Ayrımı.md;Taslak;129;1;;On kontrol belirgin eksik bulmadi
+08 — JARVIS Arayüzü/22 PySide6 QShortcut Klavye Kısayolları.md;Taslak;128;1;;On kontrol belirgin eksik bulmadi
+Jarvis Proje Üssü.md;Etiketsiz;181;0;;"Durum etiketi yok; URL kaynagi yok"
